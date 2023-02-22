@@ -4,6 +4,7 @@ App to search Github users and display their info. This is part of my React Fron
 
 ## Usage
 
+d
 Rename **_.env.example_** to **_.env_**
 
 You can use the Github API without a personal token, but if you want to use your token, add it to the .env file
@@ -23,5 +24,3 @@ npm start
 ```
 
 Tailwind UI created by [Hassib Moddasser](https://twitter.com/hassibmoddasser)
-
-test
